@@ -27,11 +27,7 @@ Table of Contents
     *   [Model Architecture](#model-architecture)
         
     *   [Tokenization and Padding](#tokenization-and-padding)
-        
-*   [Future Improvements](#future-improvements)
-    
-*   [License](#license)
-    
+           
 
 Overview
 --------
